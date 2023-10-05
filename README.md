@@ -1,4 +1,4 @@
-[![Selenium](https://img.shields.io/badge/tested_with-Selenium-green)](https://www.selenium.dev/) ![Java](https://img.shields.io/badge/language-Java-red)
+[![Selenium](https://img.shields.io/badge/tested_with-Selenium-green)](https://www.selenium.dev/) [![Java](https://img.shields.io/badge/language-Java-red)](https://www.oracle.com/java/technologies/downloads/#java21)
 
 
 ## The Internet :computer:
